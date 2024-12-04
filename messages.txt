@@ -1,6 +1,1 @@
-{"sender": "Carol", "content": "fda"}
-{"sender": "allan", "content": "ola"}
-{"sender": "allan", "content": "asdf"}
-{"sender": "asdf", "content": "af"}
-{"sender": "Allan", "content": "hi"}
-{"sender": "Yan", "content": "hello"}
+{"sender": "Allan Ferreira", "content": "hi"}
