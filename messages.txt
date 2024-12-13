@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 {"sender": "Admin", "content": "Welcome"}
 {"sender": "Goku", "content": "Hi"}
 {"sender": "Vegeta", "content": "Ka"}
@@ -6,6 +5,3 @@
 {"sender": "Vegeta", "content": "ha"}
 {"sender": "Vegeta", "content": "me"}
 {"sender": "Vegeta", "content": "haaaa"}
-=======
-{"sender": "Allan Ferreira", "content": "hi"}
->>>>>>> 59aa3863230def72616bd799970e15d035333e2d
